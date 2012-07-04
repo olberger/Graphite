@@ -1,0 +1,17 @@
+Source: php-graphite
+Section: php
+Priority: optional
+Maintainer: Olivier Berger <obergix@debian.org>
+Uploaders: Olivier Berger <olivier.berger@telecom-sudparis.eu>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.3
+Vcs-Browser: http://git.debian.org/?p=pkg-php/php-rdf-graphite.git
+Vcs-Git: http://git.debian.org/git/pkg-php/php-rdf-graphite.git
+Homepage: http://graphite.ecs.soton.ac.uk/
+
+Package: php-graphite
+Architecture: all
+Depends: ${misc:Depends}, php5 (>= 5.0.0), libarc-php
+Description: An RDF API for PHP
+ PHP RDF Library 
+
