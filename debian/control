@@ -1,4 +1,4 @@
-Source: php-graphite
+Source: libgraphite-php
 Section: php
 Priority: optional
 Maintainer: Olivier Berger <obergix@debian.org>
@@ -9,9 +9,11 @@ Vcs-Browser: http://git.debian.org/?p=pkg-php/php-rdf-graphite.git
 Vcs-Git: http://git.debian.org/git/pkg-php/php-rdf-graphite.git
 Homepage: http://graphite.ecs.soton.ac.uk/
 
-Package: php-graphite
+Package: libgraphite-php
 Architecture: all
 Depends: ${misc:Depends}, php5 (>= 5.0.0), libarc-php
-Description: An RDF API for PHP
- PHP RDF Library 
+Description: PHP Linked Data Library
+ Graphite is a PHP RDF library, built on top of ARC2, which has been
+ developed to make working with RDF easier and more fun.
+
 

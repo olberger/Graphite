@@ -1,4 +1,4 @@
-php-graphite (1.5-1) unstable; urgency=low
+libgraphite-php (1.5-1) unstable; urgency=low
 
   * Initial release. (Closes: #641014)
 
