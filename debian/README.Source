@@ -1,0 +1,12 @@
+The upstream source that was the base of this packaging reflects
+contents of upstream's https://github.com/cgutteridge/Graphite
+repository, at revision cfc4901b3ab97f35facc468eba67501e7e6d5665 from
+2012/03/11, but patched to reflect contents of upstream's current
+release (http://graphite.ecs.soton.ac.uk/download.php/Graphite.php) at
+the time of packaging.
+
+See debian/rules's get-orig-source, which downloads a tarball taken
+from the maintainer's branch :
+https://github.com/olberger/Graphite/tree/eb1ac41a9a397c97f19fecf6bc2312064b76347c
+
+ -- Olivier Berger <obergix@debian.org>, Thu,  5 Jul 2012 12:24:45 +0200

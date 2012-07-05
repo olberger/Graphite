@@ -1,0 +1,15 @@
+Graphite 1.5 is distributed by the upstream author in several versions
+(both as a standalone file, a tarball including ARC2, or from the
+GitHub repo).
+
+We tried and stick to the downloadable version at
+http://graphite.ecs.soton.ac.uk/download.php/Graphite.php (See
+README.Source for details on which version was selected for the
+packaging).
+
+Note that the suggested patch to ARC2_Reader.php
+(http://graphite.ecs.soton.ac.uk/#installation "Patch to ARC2
+(optional)") is not included (unless it has been applied to the
+libarc-php package separately).
+
+ -- Olivier Berger <obergix@debian.org>, Thu,  5 Jul 2012 12:24:57 +0200

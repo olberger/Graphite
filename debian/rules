@@ -2,3 +2,6 @@
 %:
 	dh $@
 
+get-orig-source:
+	wget https://github.com/olberger/Graphite/tarball/current-release
+	mv current-release ../libgraphite-php_1.5.orig.tar.gz
