@@ -5,8 +5,8 @@ Maintainer: Olivier Berger <obergix@debian.org>
 Uploaders: Olivier Berger <olivier.berger@telecom-sudparis.eu>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.3
-Vcs-Browser: http://git.debian.org/?p=pkg-php/php-rdf-graphite.git
-Vcs-Git: http://git.debian.org/git/pkg-php/php-rdf-graphite.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=users/obergix/libgraphite-php.git;a=summary
+Vcs-Git: http://anonscm.debian.org/git/users/obergix/libgraphite-php.git
 Homepage: http://graphite.ecs.soton.ac.uk/
 
 Package: libgraphite-php

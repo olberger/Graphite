@@ -9,4 +9,7 @@ See debian/rules's get-orig-source, which downloads a tarball taken
 from the maintainer's branch :
 https://github.com/olberger/Graphite/tree/eb1ac41a9a397c97f19fecf6bc2312064b76347c
 
+The maintainer's package sources are also available in
+http://anonscm.debian.org/gitweb/?p=users/obergix/libgraphite-php.git
+
  -- Olivier Berger <obergix@debian.org>, Thu,  5 Jul 2012 12:24:45 +0200
