@@ -47,7 +47,7 @@ class Graphite
 
 		$this->loaded = array();
 		$this->debug = false;
-		$this->arc2Config = null;
+		$this->arc2config = null;
 
 		$this->labelRelations = array( 
 			"skos:prefLabel", "rdfs:label", "foaf:name", "dct:title", "dc:title", "sioc:name" );
